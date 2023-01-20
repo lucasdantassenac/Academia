@@ -1,0 +1,3 @@
+Verificar persona
+Criar identidade visua
+Criar wooCommerce com php
